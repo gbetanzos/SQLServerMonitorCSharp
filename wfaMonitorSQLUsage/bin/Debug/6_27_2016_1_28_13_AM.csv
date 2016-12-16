@@ -1,0 +1,59 @@
+spid,ecid,status,loginame,hostname,blk,dbname,cmd,request_id
+1,0,background,sa,,0,,UNKNOWN TOKEN,0
+2,0,background,sa,,0,,UNKNOWN TOKEN,0
+3,0,background,sa,,0,,UNKNOWN TOKEN,0
+4,0,background,sa,,0,,LOG WRITER,0
+5,0,background,sa,,0,,RECOVERY WRITER,0
+6,0,background,sa,,0,,LAZY WRITER,0
+7,0,background,sa,,0,,LOCK MONITOR,0
+8,0,background,sa,,0,master,SIGNAL HANDLER,0
+9,0,background,sa,,0,,XTP_THREAD_POOL,0
+10,0,background,sa,,0,,XTP_CKPT_AGENT,0
+11,0,background,sa,,0,master,BRKR TASK,0
+12,0,sleeping,sa,,0,master,TASK MANAGER,0
+13,0,background,sa,,0,master,TRACE QUEUE TASK,0
+14,0,background,sa,,0,,SYSTEM_HEALTH_MO,0
+15,0,background,sa,,0,,RECEIVE,0
+16,0,background,sa,,0,master,CHECKPOINT,0
+17,0,background,sa,,0,master,TASK MANAGER,0
+18,0,sleeping,sa,,0,master,TASK MANAGER,0
+19,0,sleeping,sa,,0,master,TASK MANAGER,0
+20,0,sleeping,sa,,0,master,TASK MANAGER,0
+21,0,sleeping,sa,,0,master,TASK MANAGER,0
+22,0,background,sa,,0,,RESOURCE MONITOR,0
+23,0,background,sa,,0,,XE TIMER,0
+24,0,background,sa,,0,,XE DISPATCHER,0
+25,0,background,sa,,0,master,BRKR EVENT HNDLR,0
+26,0,background,sa,,0,master,BRKR TASK,0
+27,0,background,sa,,0,master,BRKR TASK,0
+28,0,background,sa,,0,master,BRKR TASK,0
+29,0,sleeping,sa,,0,master,TASK MANAGER,0
+30,0,sleeping,sa,,0,master,TASK MANAGER,0
+31,0,sleeping,sa,,0,master,TASK MANAGER,0
+32,0,sleeping,sa,,0,master,TASK MANAGER,0
+33,0,sleeping,sa,,0,master,TASK MANAGER,0
+34,0,sleeping,sa,,0,master,TASK MANAGER,0
+35,0,sleeping,sa,,0,master,TASK MANAGER,0
+51,0,sleeping,LTC\ctx_svc,PTCVPCTX04,0,PRODXA65,AWAITING COMMAND,0
+52,0,sleeping,LTC\sqldbsrvc,PTCVP14SQL01,0,msdb,AWAITING COMMAND,0
+53,0,sleeping,LTC\ctx_svc,PTCVPCTX01,0,PRODXA65,AWAITING COMMAND,0
+54,0,sleeping,LTC\ctx_svc,PTCVPCTX02,0,PRODXA65,AWAITING COMMAND,0
+55,0,sleeping,LTC\ctx_svc,PTCVTCTX02,0,PRODXA65,AWAITING COMMAND,0
+56,0,sleeping,LTC\ctx_svc,PTCVPCTX03,0,PRODXA65,AWAITING COMMAND,0
+57,0,sleeping,LTC\sqldbsrvc,PTCVPRPT01,0,ReportServer,AWAITING COMMAND,0
+58,0,sleeping,LTC\sqldbsrvc,PTCVP14SQL01,0,msdb,AWAITING COMMAND,0
+59,0,sleeping,LTC\sqldbsrvc,PTCVPRPT01,0,ReportServer,AWAITING COMMAND,0
+60,0,sleeping,LTC\sqldbsrvc,PTCVP14SQL01,0,msdb,AWAITING COMMAND,0
+61,0,sleeping,LTC\sqldbsrvc,PTCVPRPT01,0,ReportServer,AWAITING COMMAND,0
+62,0,sleeping,LTC\sqldbsrvc,PTCVPRPT02,0,ReportServer,AWAITING COMMAND,0
+63,0,sleeping,LTC\sqldbsrvc,PTCVPRPT02,0,ReportServer,AWAITING COMMAND,0
+64,0,sleeping,LTC\sqldbsrvc,MGM-BETANZG,0,master,AWAITING COMMAND,0
+65,0,runnable,LTC\sqldbsrvc,MGM-BETANZG,0,master,SELECT,0
+66,0,sleeping,NT SERVICE\ReportServer,PTCVP14SQL01,0,ReportServer,AWAITING COMMAND,0
+67,0,sleeping,LTC\sqldbsrvc,PTCVPETLOLAP01,0,ReportServer,AWAITING COMMAND,0
+69,0,sleeping,LTC\sqldbsrvc,PTCVPRPT02,0,ReportServer,AWAITING COMMAND,0
+71,0,sleeping,LTC\ctx_svc,PTCVTCTX01,0,PRODXA65,AWAITING COMMAND,0
+72,0,sleeping,LTC\sqldbsrvc,PTCVPETLOLAP01,0,ReportServer,AWAITING COMMAND,0
+75,0,sleeping,LTC\sqldbsrvc,MGM-BETANZG,0,master,AWAITING COMMAND,0
+76,0,sleeping,LTC\sqldbsrvc,MGM-BETANZG,0,master,AWAITING COMMAND,0
+79,0,sleeping,LTC\sqldbsrvc,PTCVPETLOLAP01,0,_PEN_Backup_Tables_Only,AWAITING COMMAND,0

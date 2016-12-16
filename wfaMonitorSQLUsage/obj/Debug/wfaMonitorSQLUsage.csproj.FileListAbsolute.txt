@@ -1,0 +1,13 @@
+\\Lincolntrust.net\LTC\HomeDrives\betanzg\My Documents\wfaAD\wfaMonitorSQLUsage\wfaMonitorSQLUsage\obj\Debug\ResolveAssemblyReference.cache
+\\Lincolntrust.net\LTC\HomeDrives\betanzg\My Documents\wfaAD\wfaMonitorSQLUsage\wfaMonitorSQLUsage\obj\Debug\wfaMonitorSQLUsage.frmMonitorSQLUSage.resources
+\\Lincolntrust.net\LTC\HomeDrives\betanzg\My Documents\wfaAD\wfaMonitorSQLUsage\wfaMonitorSQLUsage\obj\Debug\wfaMonitorSQLUsage.Properties.Resources.resources
+\\Lincolntrust.net\LTC\HomeDrives\betanzg\My Documents\wfaAD\wfaMonitorSQLUsage\wfaMonitorSQLUsage\obj\Debug\wfaMonitorSQLUsage.csproj.GenerateResource.Cache
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaMonitorSQLUsage\wfaMonitorSQLUsage\obj\Debug\wfaMonitorSQLUsage.frmMonitorSQLUSage.resources
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaMonitorSQLUsage\wfaMonitorSQLUsage\obj\Debug\wfaMonitorSQLUsage.Properties.Resources.resources
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaMonitorSQLUsage\wfaMonitorSQLUsage\obj\Debug\wfaMonitorSQLUsage.csproj.GenerateResource.Cache
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaMonitorSQLUsage\wfaMonitorSQLUsage\bin\Debug\wfaMonitorSQLUsage.exe
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaMonitorSQLUsage\wfaMonitorSQLUsage\bin\Debug\wfaMonitorSQLUsage.pdb
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaMonitorSQLUsage\wfaMonitorSQLUsage\obj\Debug\wfaMonitorSQLUsage.exe
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaMonitorSQLUsage\wfaMonitorSQLUsage\obj\Debug\wfaMonitorSQLUsage.pdb
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaMonitorSQLUsage\wfaMonitorSQLUsage\bin\Debug\wfaMonitorSQLUsage.exe.config
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaMonitorSQLUsage\wfaMonitorSQLUsage\obj\Debug\wfaMonitorSQLUsage.csprojResolveAssemblyReference.cache

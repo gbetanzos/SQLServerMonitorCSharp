@@ -1,0 +1,7 @@
+/home/betanzos/Downloads/wfaMonitorSQLUsage/wfaMonitorSQLUsage/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/betanzos/Downloads/wfaMonitorSQLUsage/wfaMonitorSQLUsage/obj/Debug/wfaMonitorSQLUsage.frmMonitorSQLUSage.resources
+/home/betanzos/Downloads/wfaMonitorSQLUsage/wfaMonitorSQLUsage/obj/Debug/wfaMonitorSQLUsage.Properties.Resources.resources
+/home/betanzos/Downloads/wfaMonitorSQLUsage/wfaMonitorSQLUsage/bin/Debug/wfaMonitorSQLUsage.exe.mdb
+/home/betanzos/Downloads/wfaMonitorSQLUsage/wfaMonitorSQLUsage/bin/Debug/wfaMonitorSQLUsage.exe
+/home/betanzos/Downloads/wfaMonitorSQLUsage/wfaMonitorSQLUsage/obj/Debug/wfaMonitorSQLUsage.exe
+/home/betanzos/Downloads/wfaMonitorSQLUsage/wfaMonitorSQLUsage/obj/Debug/wfaMonitorSQLUsage.exe.mdb
